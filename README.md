@@ -4,7 +4,7 @@ This is a [pebble](http://getpebble.com) watchface which displays binary version
 
 ## How to get
 
-
+[Download to your phone](http://pebble-binary.s3-website-us-east-1.amazonaws.com/build/binary.pbw)
 
 ## How to build
 
@@ -13,7 +13,7 @@ This watchface was compiled with Android SDK release 1. Make sure you setup the 
 ```
 cd ~/pebble-dev/pebble-sdk-release-001/watches
 git clone http://github.com/yanatan16/pebble-binary binary
-../tools/create_pebble_project --symlink-only ../sdk binary
+../tools/create_pebble_project.py --symlink-only ../sdk binary
 ```
 
 ## Screenshot
