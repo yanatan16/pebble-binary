@@ -18,7 +18,7 @@ git clone http://github.com/yanatan16/pebble-binary binary
 
 ## Screenshot
 
-![Binary Watchface Screenshot]()
+![Binary Watchface Screenshot](http://jeisen.github.com/pebble-binary/img/binary_screenshot.jpg)
 
 ## License
 
